@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It allowed me to easily see all of the changes that had been made to the two files and quickly compare those edits
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	it allows you to look back over your work and make changes are you develop your project. You can also branch off in different directions at key "forks" in development with the ability to come back and explore the other options is you like to.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	
+	PROS: the commits happen when you want them to, you know when the commits will occure, you have control over the commits. This limit saving at odd times, like in the middle of a line.
+	CONS: we are all human and can forget things, without auto backup, we run the risk of loosing something important. We also have to remeber to save.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	
+	Programs like Git are working with code projects where it is nessicary for multiple files to work together in a larger project, therefore it makes more sense for the files to be saved together, Googledocs on the other hand deals with seperate projects that are not interconnected to the same degree and can treat the files seperately.
+
+How can you use the commands git log and git diff to view the history of files?
+	
+	When you use git log, it shows you a history of all of the commits done to the file, when and who did them. By comparing two seperate commits, you are able to see the changes made between files.
+
+How might using version control make you more confident to make changes that could break something?
+
+	You are not at as much risk of messing your project up for real. You can make a commit before trying something or messing around and if things go baddly, you can just revert back to a commit without those changes. This give you the freedom to really play around and try things without having to worry about breaking your project.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	
+	Personally, I plan on using git and github quite a lot in school for projects and homework and the like. Additionally, I will be starting the Udacity nanodegree program for machint learning and it will be very usuful to adopt version control when working with those projects
