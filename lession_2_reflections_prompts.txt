@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	when you initialize a new repository, you are enabeling git so that you can push different versions and eventual get it onto github. you do this by adding a .git directory by running git init
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	The staging area is a go between allowing you to decide what commits you would like to make to the repository before you really make them. It is different from the working directory becase it is this go between
