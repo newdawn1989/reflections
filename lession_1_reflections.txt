@@ -25,4 +25,4 @@ How might using version control make you more confident to make changes that cou
 
 Now that you have your workspace set up, what do you want to try using Git for?
 	
-	Personally, I plan on using git and github quite a lot in school for projects and homework and the like. Additionally, I will be starting the Udacity nanodegree program for machint learning and it will be very usuful to adopt version control when working with those projects
+	Personally, I plan on using git and github quite a lot in school for projects and homework and the like. Additionally, I will be starting the Udacity nanodegree program for machine learning and it will be very usuful to adopt version control when working with those projects
