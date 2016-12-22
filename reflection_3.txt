@@ -1,1 +1,6 @@
 
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+To have control over when you are updating changes. You might make changes that you do not want to publish live to Gibhub. Likewise, you might not want every change that someone makes to a project that you are all working on together. 
