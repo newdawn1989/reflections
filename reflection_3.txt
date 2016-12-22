@@ -1,6 +1,13 @@
 
 
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-To have control over when you are updating changes. You might make changes that you do not want to publish live to Gibhub. Likewise, you might not want every change that someone makes to a project that you are all working on together. 
+A: To have control over when you are updating changes. You might make changes that you do not want to publish live to Gibhub. Likewise, you might not want every change that someone makes to a project that you are all working on together. 
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: Branches allow you to make changes within a project and go off in different directions with projects without fear of loosing your origional. Clones allow you to copy projects locally or off of GitHub onto your local machine. Forks copy a project from one GitHub repo to another.
+Branches - Good for local projects
+Clone - good for when you are working on a project with another person and need a copy of their code
+Fork - when you want to modify and share another persons project but are not working with them.
