@@ -11,3 +11,6 @@ A: Branches allow you to make changes within a project and go off in different d
 Branches - Good for local projects
 Clone - good for when you are working on a project with another person and need a copy of their code
 Fork - when you want to modify and share another persons project but are not working with them.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: it allows you to determin if and when you want to merge as well as work on the most up to date version of the project
