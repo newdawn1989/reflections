@@ -17,3 +17,6 @@ A: it allows you to determin if and when you want to merge as well as work on th
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: Drop box or e-mailing files back and forth. There would not be the hastle of pulling and pushing, however, things would be a lot less organized and ther would be nothing to warn you that there was an error.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: I would create a new branch when I wnated to make changes to code that could fundementally change the operation of master. If I wanted to explore a new feature, or even to mess with the base code I would make a new branch.
